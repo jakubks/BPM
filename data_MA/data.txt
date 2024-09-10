@@ -1,0 +1,1 @@
+Geometries and corresponding polarizability tensors of malenaldehyde (MA) taken from MD simulations  
