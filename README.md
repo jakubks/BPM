@@ -3,4 +3,4 @@
 
 A Python implementation of the bond-based machine learning polarizability model.
 
-The Run jupyter notebook shows the workflow for the training and testing of the model on the example of malonaldehyde (MA).
+The Run.ipynb jupyter notebook shows an example of a workflow for the training and testing of the model in the case of malonaldehyde (using only a subset of the data for expediency).
