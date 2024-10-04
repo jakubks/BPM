@@ -1,1 +1,2 @@
-Geometries and corresponding polarizability tensors of malenaldehyde (MA) taken from MD simulations  
+Geometries and corresponding polarizability tensors of malenaldehyde (MA) taken from MD simulations.
+Both the training and testing data are taken from 500 K MD simulations ran with the MACE-OFF23 force field.
