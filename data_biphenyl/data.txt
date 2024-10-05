@@ -1,5 +1,6 @@
 Training and testing data for the biphenyl molecule. 
-Training geometries were drawn from a 500 K simulation while the testing set was taken from the 363 K MD simulation.
+Training geometries were drawn from a 500 K simulation while the testing set was taken from the 363 K MD simulation. 
+The polarizability tensors were evaluated with DFT.
 
 The atom order in the geometry files: HCCHCHCHCHCHCCHCCHCHCH
 
