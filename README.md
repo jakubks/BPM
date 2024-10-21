@@ -1,5 +1,6 @@
 # Bond-based machine learning polarizability model
 ### Journal reference: J. K. Sowa, P. J. Rossky (2024)
+#### https://arxiv.org/abs/2410.14498
 
 A Python implementation of the bond-based machine learning polarizability model.
 
